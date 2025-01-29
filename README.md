@@ -5,5 +5,6 @@
 - ✌️ I’m looking to collaborate with Anyone and great Tech Companies
 
  >Grit, Grind, Greatness
+ >沒有風險，就沒有收穫  
 
 
