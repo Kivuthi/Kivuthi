@@ -7,4 +7,5 @@
  >Grit, Grind, Greatness
  >沒有風險，就沒有收穫  
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Very+Passionate+learning+how+to+code)](https://git.io/typing-svg)
 
