@@ -6,5 +6,6 @@
 
  > Que sera sera
 <div align="flex-start">
-  <img src="github.jpg" alt="Description" width="500">
+  <img src="![github](https://github.com/user-attachments/assets/91c4e3b6-c1f8-43ad-92b5-d93de146416c)"
+alt="Description" width="500">
 </div>
