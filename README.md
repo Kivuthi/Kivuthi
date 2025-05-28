@@ -5,7 +5,6 @@
 - ✌️ I’m looking to collaborate with Anyone and great Tech Companies
 
  > Que sera sera
-<div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/b3b94fc4-70e2-47d5-a392-0d212bf3eaa5)
-" alt="Description" width="500">
+<div align="flex-start">
+  <img src="github.jpg" alt="Description" width="500">
 </div>
