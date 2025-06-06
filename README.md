@@ -13,7 +13,7 @@ HTML • CSS • JavaScript • Python • React • Git
 
 ### 📈 GitHub Stats
 
-![Dennis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kivuthi&show_icons=true&theme=tokyonight)![GitHub Streak](https://streak-stats.demolab.com?user=Kivuthi&theme=tokyonight&hide_border=false)
+![Dennis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kivuthi&show_icons=true&theme=tokyonight) ![GitHub Streak](https://streak-stats.demolab.com?user=Kivuthi&theme=tokyonight&hide_border=false)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kivuthi&layout=compact&theme=tokyonight)
