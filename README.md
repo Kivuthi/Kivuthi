@@ -20,6 +20,8 @@ HTML • CSS • JavaScript • Python • React • Git  • PHP
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kivuthi&layout=compact&theme=tokyonight)
 
+![Custom Top Langs](https://your-vercel-app.vercel.app/api/top-langs?username=Kivuthi)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kivuthi&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
