@@ -23,8 +23,6 @@ HTML • CSS • JavaScript • Python • React • Git  • PHP • Laravel
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kivuthi&theme=blue-green" alt="Most Used Languages" />
   </div>
 
-![Custom Top Langs](https://your-vercel-app.vercel.app/api/top-langs?username=Kivuthi)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kivuthi&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
