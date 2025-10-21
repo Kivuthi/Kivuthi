@@ -18,7 +18,10 @@ HTML • CSS • JavaScript • Python • React • Git  • PHP • Laravel
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kivuthi&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kivuthi&layout=compact&theme=tokyonight)
+  <div style="flex: 50%; padding: 10px;">
+    <h2>📈 Most Used Languages</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kivuthi&theme=blue-green" alt="Most Used Languages" />
+  </div>
 
 ![Custom Top Langs](https://your-vercel-app.vercel.app/api/top-langs?username=Kivuthi)
 
