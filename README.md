@@ -8,7 +8,7 @@
  > Que sera sera
 
 ### 🔧 Tech Stack
-HTML • CSS • JavaScript • Python • React • Git  • PHP • Laravel
+HTML • CSS • JavaScript • Python • Git  • PHP • Laravel
 
 ---
 
