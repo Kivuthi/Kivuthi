@@ -31,7 +31,5 @@ HTML • CSS • JavaScript • Python • Git  • PHP • Laravel
 
 - 📫 Email: officialdee77@gmail.com
 - 🌍 Portfolio: [Portfolio-Website](https://kivuthi.github.io/Portfolio-Website/)
-- 🐦 Twitter: [@Dennis Musyoka](https://x.com/Gabitech_LTD)
-- 📸 Instagram: [@rich.ards.son](https://www.instagram.com/rich.ards.son)
-- 📘 Facebook: [@Dennis Musyoka](https://web.facebook.com/profile.php?id=61576744570713)
+- 📸 Instagram: [@Kivuthi_](https://www.instagram.com/Kivuthi_)
 - 💼 Linked In: [@Dennis Musyoka](https://www.linkedin.com/in/dennis-musyoka)
